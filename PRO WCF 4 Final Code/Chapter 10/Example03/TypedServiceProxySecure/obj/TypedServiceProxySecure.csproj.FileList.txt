@@ -1,0 +1,6 @@
+bin\Debug\TypedServiceProxySecure.dll.config
+bin\Debug\TypedServiceProxySecure.dll
+bin\Debug\TypedServiceProxySecure.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TypedServiceProxySecure.dll
+obj\Debug\TypedServiceProxySecure.pdb

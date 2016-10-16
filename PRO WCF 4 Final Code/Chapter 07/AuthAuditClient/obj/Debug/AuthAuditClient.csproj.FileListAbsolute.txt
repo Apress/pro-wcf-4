@@ -1,0 +1,8 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\bin\Debug\AuthAuditClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\bin\Debug\AuthAuditClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\bin\Debug\AuthAuditClient.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\bin\Debug\ExchangeService.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\bin\Debug\ExchangeService.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\obj\Debug\AuthAuditClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\AuthAuditClient\obj\Debug\AuthAuditClient.pdb

@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=PositionManagement\OldHorse.vbp
+StartupProject=OldHorseTester\OldHorseTest1.vbp

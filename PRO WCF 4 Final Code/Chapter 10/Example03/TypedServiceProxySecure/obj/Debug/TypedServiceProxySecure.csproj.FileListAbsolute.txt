@@ -1,0 +1,2 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 10\Example03\TypedServiceProxySecure\obj\Debug\TypedServiceProxySecure.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 10\Example03\TypedServiceProxySecure\obj\Debug\TypedServiceProxySecure.pdb

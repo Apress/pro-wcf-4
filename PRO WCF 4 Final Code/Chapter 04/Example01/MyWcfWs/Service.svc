@@ -1,0 +1,15 @@
+<%@ ServiceHost Language="C#" Service="MyService" %>
+
+
+using System;
+using System.ServiceModel;
+
+[ServiceContract]
+public class MyService
+{
+    [OperationContract]
+    public string HelloWorld( string yourName )
+    {
+        return "Hello, World to " + yourName;
+    }
+}

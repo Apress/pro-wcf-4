@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtomClient", "MtomClient\MtomClient.csproj", "{05656E12-C23B-42D9-B1EE-443D0FACC830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSvc", "FileService\FileSvc.csproj", "{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHost", "WcfHost\WcfHost.csproj", "{0C5C919C-9642-4608-BD36-2977EF12F8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05656E12-C23B-42D9-B1EE-443D0FACC830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05656E12-C23B-42D9-B1EE-443D0FACC830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05656E12-C23B-42D9-B1EE-443D0FACC830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05656E12-C23B-42D9-B1EE-443D0FACC830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5C919C-9642-4608-BD36-2977EF12F8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5C919C-9642-4608-BD36-2977EF12F8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5C919C-9642-4608-BD36-2977EF12F8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5C919C-9642-4608-BD36-2977EF12F8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

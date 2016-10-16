@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8888/ExchangeWeb/TradeService.svc?wsdl"
+		Name="ExchangeService"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8888/ExchangeWeb/TradeService.svc"
+			BindingConfiguration="WSHttpBinding_TradeService2"
+			Contract="WcfClient.ExchangeService.TradeService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

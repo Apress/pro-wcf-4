@@ -1,0 +1,10 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\bin\Debug\QuickReturnTraderChat.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\bin\Debug\QuickReturnTraderChat.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\bin\Debug\QuickReturnTraderChat.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\QuickReturnTraderChat.Main.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\QuickReturnTraderChat.Properties.Resources.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\GenerateResource.read.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\GenerateResource.write.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\QuickReturnTraderChat.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 12\QuickReturnTraderChat\ChatApplication\obj\Debug\QuickReturnTraderChat.pdb

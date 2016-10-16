@@ -1,0 +1,130 @@
+// Generated .IDL file (by the OLE/COM Object Viewer)
+// 
+// typelib filename: OldHorse2.tlb
+
+[
+  uuid(C41F4EE8-3475-47B6-B381-5E7774E4287D),
+  version(2.0),
+  custom(90883F05-3D28-11D2-8F17-00A0C9A6186D, OldHorse2, Version=2.0.0.0, Culture=neutral, PublicKeyToken=13c80650e383805d)
+
+]
+library OldHorse2
+{
+    // TLib :     // TLib : mscorlib.dll : {BED7F4EA-1A96-11D2-8F08-00A0C9A6186D}
+    importlib("mscorlib.tlb");
+    // TLib :  : {4FB2D46F-EFC8-4643-BCD0-6E5BFA6A174C}
+    importlib("System.EnterpriseServices.tlb");
+    // TLib : OLE Automation : {00020430-0000-0000-C000-000000000046}
+    importlib("stdole2.tlb");
+    // TLib : Common Language Runtime Execution Engine 2.0 Library : {5477469E-83B1-11D2-8B49-00A0C9B7C9C4}
+    importlib("mscoree.tlb");
+
+    // Forward declare all types defined in this typelib
+    interface IPosition;
+    interface IPositionManagement;
+    interface _Position;
+    interface _PositionManagement;
+
+    [
+      odl,
+      uuid(D428B97A-13C8-4591-8AC3-5E8622A8C8BE),
+      version(1.0),
+      dual,
+      oleautomation,
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.IPosition)    
+
+    ]
+    interface IPosition : IDispatch {
+        [id(0x60020000), propget]
+        HRESULT Quantity([out, retval] int64* pRetVal);
+        [id(0x60020000), propput]
+        HRESULT Quantity([in] int64 pRetVal);
+        [id(0x60020002), propget]
+        HRESULT Ticker([out, retval] BSTR* pRetVal);
+        [id(0x60020002), propput]
+        HRESULT Ticker([in] BSTR pRetVal);
+        [id(0x60020004)]
+        HRESULT GetQuantity(
+                        [in] BSTR Ticker, 
+                        [out, retval] int64* pRetVal);
+        [id(0x60020005)]
+        HRESULT GetPosition(
+                        [in] BSTR Ticker, 
+                        [out, retval] IPosition** pRetVal);
+    };
+
+    [
+      uuid(02FD3A3B-CFCE-4298-8766-438C596002B4),
+      version(1.0),
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.Position)
+    ]
+    coclass Position {
+        [default] interface _Position;
+        interface _Object;
+        interface IRemoteDispatch;
+        interface IDisposable;
+        interface IManagedObject;
+        interface IServicedComponentInfo;
+        interface IPosition;
+    };
+
+    [
+      odl,
+      uuid(3B26F4CA-E839-4AB6-86D4-AADB0A8AADA5),
+      version(1.0),
+      dual,
+      oleautomation,
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.IPositionManagement)    
+
+    ]
+    interface IPositionManagement : IDispatch {
+        [id(0x60020000)]
+        HRESULT UpdatePosition(
+                        [in] BSTR Ticker, 
+                        [in] int64 Quantity, 
+                        [out, retval] int64* pRetVal);
+        [id(0x60020001)]
+        HRESULT GetQuantity(
+                        [in] BSTR Ticker, 
+                        [out, retval] int64* pRetVal);
+    };
+
+    [
+      uuid(08F01AD6-F3EB-4F41-A73A-270AA942881A),
+      version(1.0),
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.PositionManagement)
+    ]
+    coclass PositionManagement {
+        [default] interface _PositionManagement;
+        interface _Object;
+        interface IRemoteDispatch;
+        interface IDisposable;
+        interface IManagedObject;
+        interface IServicedComponentInfo;
+        interface IPositionManagement;
+    };
+
+    [
+      odl,
+      uuid(C412FCA7-CD12-346A-8F15-1700A31342A8),
+      hidden,
+      dual,
+      oleautomation,
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.Position)    
+
+    ]
+    interface _Position : IDispatch {
+    };
+
+    [
+      odl,
+      uuid(1F164009-7FD8-397C-AAEC-D77D8CAA5647),
+      hidden,
+      dual,
+      oleautomation,
+      custom(0F21F359-AB84-41E8-9A78-36D110E6D2F9, OldHorse2.PositionManagement)    
+
+    ]
+    interface _PositionManagement : IDispatch {
+    };
+};

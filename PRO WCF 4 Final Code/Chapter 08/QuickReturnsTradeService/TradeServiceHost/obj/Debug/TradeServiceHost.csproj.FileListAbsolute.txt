@@ -1,0 +1,2 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\TradeServiceHost\bin\Debug\TradeServiceHost.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\TradeServiceHost\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+bin\Debug\WsRmClient.exe
+bin\Debug\WsRmClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WsRmClient.Properties.Resources.resources
+obj\Debug\WsRmClient.csproj.GenerateResource.Cache
+obj\Debug\WsRmClient.exe
+obj\Debug\WsRmClient.pdb
+obj\Debug\WsRmClient.Form1.resources
+bin\Debug\WsRmClient.exe.config

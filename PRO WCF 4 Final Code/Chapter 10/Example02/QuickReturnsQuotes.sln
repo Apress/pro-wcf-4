@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://localhost/QuickReturnsQuotes/", "http://localhost/QuickReturnsQuotes", "{CEAE6A8E-BC60-4314-9308-29B6937950E5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/QuickReturnsQuotes"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\PracticalWcf\Chapter10\Example2\QuickReturnsQuotes\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\QuickReturnsQuotes\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/QuickReturnsQuotes"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\PracticalWcf\Chapter10\Example2\QuickReturnsQuotes\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\QuickReturnsQuotes\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\PracticalWcf\Chapter10\Example2\QuickReturnsQuotes\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypedServiceProxy", "TypedServiceProxy\TypedServiceProxy.csproj", "{89974DD0-14C4-49FA-8FCF-8EE74035457A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Debug|.NET.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Debug|.NET.Build.0 = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Release|.NET.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Release|.NET.Build.0 = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{CEAE6A8E-BC60-4314-9308-29B6937950E5}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Release|.NET.ActiveCfg = Release|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{89974DD0-14C4-49FA-8FCF-8EE74035457A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

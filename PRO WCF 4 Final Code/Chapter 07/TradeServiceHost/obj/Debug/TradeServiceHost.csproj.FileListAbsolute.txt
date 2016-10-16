@@ -1,0 +1,8 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\bin\Debug\TradeServiceHost.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\bin\Debug\TradeServiceHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\bin\Debug\TradeServiceHost.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\bin\Debug\ExchangeService.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\bin\Debug\ExchangeService.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\obj\Debug\TradeServiceHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 07\TradeServiceHost\obj\Debug\TradeServiceHost.pdb

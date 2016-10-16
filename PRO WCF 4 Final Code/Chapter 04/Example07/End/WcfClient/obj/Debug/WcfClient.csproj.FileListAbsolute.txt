@@ -1,0 +1,6 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\bin\Debug\WcfClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\bin\Debug\WcfClient.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\obj\Debug\WcfClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example07\End\WcfClient\obj\Debug\WcfClient.pdb

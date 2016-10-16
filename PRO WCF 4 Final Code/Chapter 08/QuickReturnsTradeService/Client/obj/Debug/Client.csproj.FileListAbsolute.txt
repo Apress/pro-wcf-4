@@ -1,0 +1,6 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\bin\Debug\Client.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\bin\Debug\Client.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\bin\Debug\Client.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\obj\Debug\Client.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\Client\obj\Debug\Client.pdb

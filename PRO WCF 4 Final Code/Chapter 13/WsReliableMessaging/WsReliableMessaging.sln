@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHost", "WcfHost\WcfHost.csproj", "{F869E0F0-7F0B-41E2-98D7-607343493646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WsRmClient", "WsRmClient\WsRmClient.csproj", "{9F49FBE9-9E6A-4598-9257-AEF78D709BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSvc", "FileService\FileSvc.csproj", "{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F869E0F0-7F0B-41E2-98D7-607343493646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F869E0F0-7F0B-41E2-98D7-607343493646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F869E0F0-7F0B-41E2-98D7-607343493646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F869E0F0-7F0B-41E2-98D7-607343493646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F49FBE9-9E6A-4598-9257-AEF78D709BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F49FBE9-9E6A-4598-9257-AEF78D709BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F49FBE9-9E6A-4598-9257-AEF78D709BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F49FBE9-9E6A-4598-9257-AEF78D709BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D37EA-AB29-42FB-A278-36F7AFE3F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

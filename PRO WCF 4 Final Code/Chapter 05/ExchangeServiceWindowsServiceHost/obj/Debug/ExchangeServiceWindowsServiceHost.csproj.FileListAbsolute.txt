@@ -1,0 +1,11 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\bin\Debug\ExchangeServiceWindowsServiceHost.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\bin\Debug\ExchangeServiceWindowsServiceHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\bin\Debug\ExchangeServiceWindowsServiceHost.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\bin\Debug\QuickReturns.StockTrading.ExchangeService.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\bin\Debug\QuickReturns.StockTrading.ExchangeService.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\QuickReturns.StockTrading.ExchangeService.Hosts.ProjectInstaller.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\ExchangeServiceWindowsServiceHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\ExchangeServiceWindowsServiceHost\obj\Debug\ExchangeServiceWindowsServiceHost.pdb

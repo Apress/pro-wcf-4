@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost/WcfHelloWorld/Service.svc?wsdl"
+		Name="Example03"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost/WcfHelloWorld/Service.svc"
+			BindingConfiguration="WSHttpBinding_IMyInterface"
+			Contract="WcfClient.Example03.IMyInterface"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

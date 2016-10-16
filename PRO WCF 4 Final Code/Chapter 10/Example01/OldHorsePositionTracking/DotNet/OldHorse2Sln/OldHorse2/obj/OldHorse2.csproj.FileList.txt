@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\OldHorse2.dll
+bin\Debug\OldHorse2.pdb
+obj\Debug\OldHorse2.dll
+obj\Debug\OldHorse2.pdb

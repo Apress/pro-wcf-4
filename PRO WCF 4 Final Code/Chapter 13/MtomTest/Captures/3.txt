@@ -1,0 +1,8 @@
+
+--uuid:726aa6e7-5ac8-49f4-8582-b7ba097be859+id=2
+Content-ID: <http://tempuri.org/0>
+Content-Transfer-Encoding: 8bit
+Content-Type: application/xop+xml;charset=utf-8;type="application/soap+xml"
+
+<s:Envelope xmlns:s="http://www.w3.org/2003/05/soap-envelope" xmlns:a="http://www.w3.org/2005/08/addressing"><s:Header><a:Action s:mustUnderstand="1">http://schemas.xmlsoap.org/ws/2005/02/trust/RSTR/Issue</a:Action><a:MessageID>urn:uuid:3d78a464-9096-47ff-86ce-5afeeddc0ba3</a:MessageID><a:ReplyTo><a:Address>http://www.w3.org/2005/08/addressing/anonymous</a:Address></a:ReplyTo><a:To s:mustUnderstand="1">http://xpshawnci:8080/MtomService</a:To></s:Header><s:Body><t:RequestSecurityTokenResponse Context="uuid-af1f0d7a-6fd7-4c06-9ce0-7a5acb18669f-2" xmlns:t="http://schemas.xmlsoap.org/ws/2005/02/trust" xmlns:u="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"><t:BinaryExchange ValueType="http://schemas.microsoft.com/net/2004/07/secext/WS-SPNego">TlRMTVNTUAADAAAAGAAYAHgAAAAYABgAkAAAABAAEABIAAAAEAAQAFgAAAAQABAAaAAAABAAEACoAAAANYKY4gUBKAoAAAAPQwBMAFcAQwBGAFgAUAAxAGMAaQBjAG8AcgBpAGEAcwBDAEwAVwBDAEYAWABQADEA5OLHzcQEcZYAAAAAAAAAAAAAAAAAAAAAsz6BrLvbKI9JA2UWtQEQolhSFoU9HXfU0vvvDPQuWoNlKxIgckKTwQ==</t:BinaryExchange></t:RequestSecurityTokenResponse></s:Body></s:Envelope>
+--uuid:726aa6e7-5ac8-49f4-8582-b7ba097be859+id=2--

@@ -1,0 +1,4 @@
+<% @ServiceHost Language="C#" Debug="true" 
+   Service="QuickReturns.StockTrading.ExchangeService.TradeService" 
+   Factory="QuickReturns.StockTrading.ExchangeService.TradeServiceCustomHostFactory" %> 
+

@@ -1,0 +1,11 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\obj\Debug\WcfHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\obj\Debug\WcfHost.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\BigTextFile.txt
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\LogoText.JPG
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\SmallTextFile.txt
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\WcfHost.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\WcfHost.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\FileSvc.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging\WcfHost\bin\Debug\FileSvc.pdb

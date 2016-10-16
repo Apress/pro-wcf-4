@@ -1,0 +1,6 @@
+bin\Debug\TypedServiceProxy.dll.config
+bin\Debug\TypedServiceProxy.dll
+bin\Debug\TypedServiceProxy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TypedServiceProxy.dll
+obj\Debug\TypedServiceProxy.pdb

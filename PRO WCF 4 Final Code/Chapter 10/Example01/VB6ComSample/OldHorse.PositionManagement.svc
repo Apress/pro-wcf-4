@@ -1,0 +1,1 @@
+<%@ServiceHost Factory="System.ServiceModel.ComIntegration.WasHostedComPlusFactory" Service="{f4612210-b755-4e17-87db-f82d9751d582},{d3a08ae7-1857-409d-97aa-d86c0b366f5f}" %>

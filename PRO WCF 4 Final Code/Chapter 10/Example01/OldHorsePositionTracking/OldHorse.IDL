@@ -1,0 +1,85 @@
+// Generated .IDL file (by the OLE/COM Object Viewer)
+// 
+// typelib filename: OldHorse.dll
+
+[
+  uuid(207BC566-C2A6-4D39-BCF4-DB019EC2EE3C),
+  version(1.0),
+  custom(50867B00-BB69-11D0-A8FF-00A0C9110059, 9782)
+
+]
+library OldHorse
+{
+    // TLib :     // TLib : OLE Automation : {00020430-0000-0000-C000-000000000046}
+    importlib("stdole2.tlb");
+
+    // Forward declare all types defined in this typelib
+    interface _PositionManagement;
+    interface _Position;
+
+    [
+      odl,
+      uuid(C77AC58E-68D6-424D-9E7A-7D5F283ECFAA),
+      version(1.0),
+      hidden,
+      dual,
+      nonextensible,
+      oleautomation
+    ]
+    interface _PositionManagement : IDispatch {
+        [id(0x60030000)]
+        HRESULT UpdatePosition(
+                        [in] BSTR Ticker, 
+                        [in] long Quantity, 
+                        [out, retval] long* );
+        [id(0x60030001)]
+        HRESULT GetQuantity(
+                        [in] BSTR Ticker, 
+                        [out, retval] long* );
+    };
+
+    [
+      uuid(F4612210-B755-4E17-87DB-F82D9751D582),
+      version(1.0),
+      custom(17093CC5-9BD2-11CF-AA4F-304BF89C0001, 0)
+    ]
+    coclass PositionManagement {
+        [default] interface _PositionManagement;
+    };
+
+    [
+      odl,
+      uuid(7E22753A-CD1B-4620-A952-E3CDFD456431),
+      version(1.0),
+      hidden,
+      dual,
+      nonextensible,
+      oleautomation
+    ]
+    interface _Position : IDispatch {
+        [id(0x68030001), propput]
+        HRESULT Quantity([in] long );
+        [id(0x68030001), propget]
+        HRESULT Quantity([out, retval] long* );
+        [id(0x68030000), propput]
+        HRESULT Ticker([in] BSTR );
+        [id(0x68030000), propget]
+        HRESULT Ticker([out, retval] BSTR* );
+        [id(0x60030002)]
+        HRESULT GetQuantity(
+                        [in] BSTR Ticker, 
+                        [out, retval] long* );
+        [id(0x60030003)]
+        HRESULT GetPosition(
+                        [in] BSTR Ticker, 
+                        [out, retval] _Position** );
+    };
+
+    [
+      uuid(E17BC5E8-0378-4775-88DE-BADB73C57F03),
+      version(1.0)
+    ]
+    coclass Position {
+        [default] interface _Position;
+    };
+};

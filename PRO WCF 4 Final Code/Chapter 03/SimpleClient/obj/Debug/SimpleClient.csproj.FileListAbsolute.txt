@@ -1,0 +1,6 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClient.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\obj\Debug\QuickReturns.StockTrading.ExchangeServiceClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClient\obj\Debug\QuickReturns.StockTrading.ExchangeServiceClient.pdb

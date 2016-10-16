@@ -1,0 +1,11 @@
+bin\Debug\WcfHost.exe
+bin\Debug\WcfHost.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WcfHost.exe
+obj\Debug\WcfHost.pdb
+bin\Debug\WcfHost.exe.config
+bin\Debug\BigTextFile.txt
+bin\Debug\SmallTextFile.txt
+bin\Debug\LogoText.JPG
+bin\Debug\FileSvc.dll
+bin\Debug\FileSvc.pdb

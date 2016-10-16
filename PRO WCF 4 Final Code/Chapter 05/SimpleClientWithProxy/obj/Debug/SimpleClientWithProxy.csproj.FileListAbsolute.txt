@@ -1,0 +1,6 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\bin\Debug\SimpleClientWithProxy.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\bin\Debug\SimpleClientWithProxy.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\bin\Debug\SimpleClientWithProxy.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\obj\Debug\SimpleClientWithProxy.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 05\SimpleClientWithProxy\obj\Debug\SimpleClientWithProxy.pdb

@@ -1,0 +1,6 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClientProxy.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClientProxy.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\bin\Debug\QuickReturns.StockTrading.ExchangeServiceClientProxy.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\obj\Debug\QuickReturns.StockTrading.ExchangeServiceClientProxy.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 03\SimpleClientUsingProxy\obj\Debug\QuickReturns.StockTrading.ExchangeServiceClientProxy.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost/VB6ComSample/OldHorse.PositionManagement.svc?wsdl"
+		Name="OldHorse"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://xpshawnci.corp.avanade.org/VB6ComSample/OldHorse.PositionManagement.svc/_PositionManagement"
+			BindingConfiguration="WSHttpBinding__PositionManagement"
+			Contract="VB6ComClient.OldHorse._PositionManagement"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://xpshawnci.corp.avanade.org/VB6ComSample/OldHorse.PositionManagement.svc/mex"
+			BindingConfiguration="MetadataExchangeHttpBinding_IMetadataExchange"
+			Contract="System.ServiceModel.Description.IMetadataExchange"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

@@ -1,0 +1,75 @@
+<project basedir="." default="jar.all">
+<!--Auto generated ant build file-->
+<property name="project.base.dir" value="."/>
+<property name="src" value="${project.base.dir}/src"/>
+<property name="test" value="${project.base.dir}/test"/>
+<property name="build" value="${project.base.dir}/build"/>
+<property name="classes" value="${build}/classes"/>
+<property name="lib" value="${build}/lib"/>
+<property name="resources" value="${project.base.dir}/resources"/>
+<property name="name" value="MtomSample"/>
+<property name="jars.ok" value=""/>
+<path id="axis2.class.path">
+<pathelement path="${java.class.path}"/>
+<pathelement path="${maven.class.path}"/>
+<fileset dir="${axis2.home}">
+<include name="lib/*.jar"/>
+</fileset>
+</path>
+<target name="init">
+<mkdir dir="${build}"/>
+<mkdir dir="${classes}"/>
+<mkdir dir="${lib}"/>
+<mkdir dir="${test}"/>
+</target>
+<target name="pre.compile.test" depends="init">
+<!--Test the classpath for the availability of necesary classes-->
+<available classname="javax.xml.stream.XMLStreamReader" property="stax.available"/>
+<available classname="org.apache.axis2.engine.AxisEngine" property="axis2.available"/>
+<condition property="jars.ok">
+<and>
+<isset property="stax.available"/>
+<isset property="axis2.available"/>
+</and>
+</condition>
+<!--Print out the availabilities-->
+<echo message="Stax Availability= ${stax.available}"/>
+<echo message="Axis2 Availability= ${axis2.available}"/>
+</target>
+<target name="compile.src" depends="echo.classpath.problem" if="jars.ok">
+<javac debug="on" destdir="${classes}" srcdir="${src}">
+<classpath refid="axis2.class.path"/>
+</javac>
+</target>
+<target name="compile.test" depends="compile.src" if="jars.ok">
+<javac debug="on" destdir="${classes}" srcdir="${test}">
+<classpath refid="axis2.class.path"/>
+</javac>
+</target>
+<target name="echo.classpath.problem" depends="pre.compile.test" unless="jars.ok">
+<echo message="The class path is not set right!                                Please make sure the following classes are in the classpath                                1. Stax                                2. Axis2                 "/>
+</target>
+<target name="jar.client" if="jars.ok" depends="compile.test">
+<jar destfile="${lib}/${name}-client.jar">
+<fileset dir="${classes}">
+<exclude name="**/META-INF/*.*"/>
+<exclude name="**/lib/*.*"/>
+<exclude name="**/*MessageReceiver.class"/>
+<exclude name="**/*Skeleton.class"/>
+</fileset>
+</jar>
+</target>
+<target name="jar.server" depends="compile.src,echo.classpath.problem" if="jars.ok">
+<copy toDir="${classes}/META-INF">
+<fileset dir="${resources}">
+<include name="*.xml"/>
+<include name="*.wsdl"/>
+<include name="*.xsd"/>
+</fileset>
+</copy>
+<jar destfile="${lib}/${name}.aar">
+<fileset excludes="**/Test.class" dir="${classes}"/>
+</jar>
+</target>
+<target name="jar.all" depends="jar.server,jar.client"/>
+</project>

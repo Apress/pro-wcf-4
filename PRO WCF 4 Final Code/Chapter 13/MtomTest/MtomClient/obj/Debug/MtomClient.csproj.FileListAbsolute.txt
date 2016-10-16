@@ -1,0 +1,3 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\MtomTest\MtomClient\bin\Debug\MtomClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\MtomTest\MtomClient\obj\Debug\MtomClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\MtomTest\MtomClient\obj\Debug\MtomClient.pdb

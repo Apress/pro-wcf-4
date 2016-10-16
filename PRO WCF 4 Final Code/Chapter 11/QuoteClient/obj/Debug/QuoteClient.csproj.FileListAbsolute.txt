@@ -1,0 +1,11 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\bin\Debug\QuoteClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\bin\Debug\QuoteClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\bin\Debug\QuoteClient.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\QuoteClient.FormQuoteClient.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\QuickReturn.FormViewXML.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\QuickReturn.Properties.Resources.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\QuoteClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 11\QuoteClient\obj\Debug\QuoteClient.pdb

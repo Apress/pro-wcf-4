@@ -1,0 +1,10 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\bin\Debug\WsRmClient.exe.config
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\WsRmClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\WsRmClient.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\WsRmClient.Form1.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\WsRmClient.Properties.Resources.resources
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\bin\Debug\WsRmClient.exe
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 13\WsReliableMessaging.sav\WsRmClient\bin\Debug\WsRmClient.pdb

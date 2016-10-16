@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://localhost/WcfHelloWorld/", "http://localhost/WcfHelloWorld", "{BFE10FEE-37E5-4FC5-AA84-DBF09AC7569C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/WcfHelloWorld"
+		Debug.AspNetCompiler.PhysicalPath = "WcfHelloWorld\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WcfHelloWorld\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WcfHelloWorld"
+		Release.AspNetCompiler.PhysicalPath = "WcfHelloWorld\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WcfHelloWorld\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WcfHelloWorld\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE10FEE-37E5-4FC5-AA84-DBF09AC7569C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{BFE10FEE-37E5-4FC5-AA84-DBF09AC7569C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\QuickReturnsTradeService\bin\Debug\QuickReturnsTradeService.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\QuickReturnsTradeService\bin\Debug\QuickReturnsTradeService.pdb
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\QuickReturnsTradeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\QuickReturnsTradeService\obj\Debug\QuickReturnsTradeService.dll
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 08\QuickReturnsTradeService\QuickReturnsTradeService\obj\Debug\QuickReturnsTradeService.pdb

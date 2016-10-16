@@ -1,0 +1,10 @@
+C:\WINDOWS\WinFX\v3.0\Windows Communication Foundation>ComSvcConfig.exe /install /application:AOldHorse /contract:OldHorse.PositionM
+anagement,_PositionManagement /hosting:was /webdirectory:testweb /mex
+
+C:\WINDOWS\WinFX\v3.0\Windows Communication Foundation>ComSvcConfig.exe /install /application:AOldHorse /contract:OldHorse.Position,
+_Position /hosting:was /webdirectory:testweb /mex
+
+setlocal
+set path=%path%;C:\WINDOWS\WinFX\v3.0\Windows Communication Foundation
+ComSvcConfig.exe /install /application:OldHorse /contract:OldHorse.PositionManagement,_PositionManagement /hosting:was /webdirectory:testweb /mex
+endlocal

@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DotNetComClient.exe.config
+bin\Debug\DotNetComClient.exe
+bin\Debug\DotNetComClient.pdb
+obj\Debug\DotNetComClient.exe
+obj\Debug\DotNetComClient.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost/ExchangeService/ExchangeServiceCustomHost.svc"
+		Name="ExchangeService"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://nl-dennism.corp.avanade.org/ExchangeService/ExchangeServiceCustomHost.svc"
+			BindingConfiguration="basicHttpBinding"
+			Contract="SimpleClientWithProxy.ExchangeService.ITradeService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

@@ -1,0 +1,1 @@
+C:\Pro_WCF_Practical_Microsoft_SOA_Implementation-3297\PRO WCF Final Code\Chapter 04\Example03\WcfClient\bin\Debug\WcfClient.exe.config

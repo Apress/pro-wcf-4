@@ -1,0 +1,6 @@
+bin\Debug\VB6ComClient.exe.config
+bin\Debug\VB6ComClient.exe
+bin\Debug\VB6ComClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VB6ComClient.exe
+obj\Debug\VB6ComClient.pdb

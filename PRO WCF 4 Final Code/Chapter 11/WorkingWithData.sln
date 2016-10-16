@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickReturnQuoteService", "QuickReturnQuoteService\QuickReturnQuoteService.csproj", "{902E27CB-9948-46B4-BC42-4F0DE4F10114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteClient", "QuoteClient\QuoteClient.csproj", "{8B1A09CA-DAC5-415F-A2B1-00CD26497108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{902E27CB-9948-46B4-BC42-4F0DE4F10114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902E27CB-9948-46B4-BC42-4F0DE4F10114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902E27CB-9948-46B4-BC42-4F0DE4F10114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902E27CB-9948-46B4-BC42-4F0DE4F10114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1A09CA-DAC5-415F-A2B1-00CD26497108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1A09CA-DAC5-415F-A2B1-00CD26497108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1A09CA-DAC5-415F-A2B1-00CD26497108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1A09CA-DAC5-415F-A2B1-00CD26497108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\FileSvc.dll
+bin\Debug\FileSvc.pdb
+obj\Debug\FileSvc.dll
+obj\Debug\FileSvc.pdb
